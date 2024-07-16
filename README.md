@@ -1,2 +1,2 @@
 # technical-prep
-solving some problems
+Repository for technical interview preparation problems and solutions
