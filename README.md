@@ -1,7 +1,7 @@
-# Technical Prep
+# Random Questions
 
-This is a repository for technical interview preparation problems and solutions.
-- [Technical Prep](#technical-prep)
+
+- [TOC](#random_questions)
   - [HackerRank](#hackerrank)
     - [1-Week Prep](#1-week-prep)
       - [Day 1](#day-1)
