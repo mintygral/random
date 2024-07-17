@@ -9,6 +9,8 @@ This is a repository for technical interview preparation problems and solutions.
         - [Mini-Max Sum](#mini-max-sum)
         - [Time Conversion](#time-conversion)
         - [Mock Test: Finding the Median](#mock-test-finding-the-median)
+      - [Day 2](#day-2)
+        - [Lonely Integer](#lonely-integer)
 
 ## HackerRank
 
@@ -18,3 +20,6 @@ This is a repository for technical interview preparation problems and solutions.
 ##### Mini-Max Sum
 ##### Time Conversion
 ##### Mock Test: Finding the Median
+
+#### Day 2
+##### Lonely Integer

@@ -1,13 +1,8 @@
 # 1-Week Prep
 
-- [Technical Prep](#technical-prep)
-  - [HackerRank](#hackerrank)
-    - [1-Week Prep](#1-week-prep)
-      - [Day 1](#day-1)
-        - [Plus Minus](#plus-minus)
-        - [Mini-Max Sum](#mini-max-sum)
-        - [Time Conversion](#time-conversion)
-        - [Mock Test: Finding the Median](#mock-test-finding-the-median)
+- [1-Week Prep](#1-week-prep)
+  - [Day 1](#day-1)
+  - [Day 2](#day-2)
 
 ## Day 1
 - Plus Minus: Finding the ratio of positive/negative/zero numbers to the overall size of an array.
